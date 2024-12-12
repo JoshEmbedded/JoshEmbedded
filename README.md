@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JoshEmbedded
-- 👀 I’m interested in ... Mechatronics
-- 🌱 I’m currently learning ... Arduino/C
-- 💞️ I’m looking to collaborate on ... Student Arduino Projects
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Mechatronics & Robotic Programming
+- 🌱 I’m currently developing my python & C++ skills in the ROS ecosystem
 
 <!---
 JoshEmbedded/JoshEmbedded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
